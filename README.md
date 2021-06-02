@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kiduk-kim
 - 👀 I’m interested in computational chemistry
-- 🌱 I’m currently learning fortran, C, C++ / LAMMPS & PLUMED / 
+- 🌱 I’m currently learning code languages (Fortran, C/C++, C#, Python) and simulation programs (LAMMPS & PLUMED)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
